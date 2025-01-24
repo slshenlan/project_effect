@@ -1,0 +1,1 @@
+import{_ as e}from"./index-10e24cf3.js";import{h as t,j as _}from"./vue-e0e31f72.js";import"./arco-38a32e5c.js";const o={},c={class:"sl-layout-content"};function n(s,a){return t(),_("div",c)}const l=e(o,[["render",n],["__scopeId","data-v-7ebe1ba8"]]);export{l as default};
