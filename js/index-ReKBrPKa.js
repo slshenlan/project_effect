@@ -1,0 +1,1 @@
+import{j as e,b as t,n as o,O as n,H as a}from"./vue-Dsq7ZBFK.js";import{_ as s}from"./_plugin-vue_export-helper-DlAUqK2U.js";const c={class:"sl-layout-content"},_=e({__name:"index",setup(r){return t(()=>{o(()=>{})}),(p,d)=>(a(),n("div",c))}}),l=s(_,[["__scopeId","data-v-a3aa5b48"]]);export{l as default};
